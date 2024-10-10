@@ -115,3 +115,6 @@
 - **Absatz 14:** Der Handel mit Fremdwährungen, z.B. LabyMod-Cosmetics, ist verboten.
 - **Absatz 15:** Jegliche Werbung für glücksspielbezogene Aktivitäten oder Einrichtungen, einschließlich Casinos, ist auf dem gesamten Netzwerk strengstens untersagt - mit Ausnahme von netzwerkeigenen Initiativen.
 - **Absatz 16:** Das Tragen von rechtswidrigen oder pornografischen Capes (z.B. LabyMod-Capes) ist verboten.
+
+
+Euer SKYYMEDIA Team :blue_heart:
