@@ -4,7 +4,7 @@
 ## § 1 Allgemeines
 
 ### § 1.1 Begriffsdefinitionen
-- **Absatz 1:** "Netzwerk" umfasst das Minecraft-Netzwerk, den TeamSpeak3-Server und den Discord-Server von OPSUCHT.NET.
+- **Absatz 1:** "Netzwerk" umfasst das Minecraft-Netzwerk, den TeamSpeak3-Server und den Discord-Server von SKYYMEDIA.DE.
 - **Absatz 2:** "Wir" steht für das aktuelle Team von SKYYMEDIA.DE.
 - **Absatz 3:** "Du", "Spieler" und "User" sind alle Nutzer unseres Netzwerks.
 
