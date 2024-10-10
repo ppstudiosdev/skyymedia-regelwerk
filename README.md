@@ -1,3 +1,4 @@
+![Banner-1](https://media.discordapp.net/attachments/1143817190601134101/1294069377859194910/IMG_2026.gif?ex=6709ab86&is=67085a06&hm=ddc8496149af3c705e1f92f72a7092eac4d9d2091699f2131306b451dfcae711&=)
 
 # Nutzungs &- Verhaltensregeln
 
