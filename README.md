@@ -36,6 +36,7 @@
     - **Absatz 3.5:** Nutzer dürfen sich im Ausnahmefall in Absprache mit einem Administrator über die Regeln hinwegsetzen.
     - **Absatz 3.6:** Niemand wird einfach vom Netzwerk gekickt oder gebannt. Jedes Teammitglied hat die Berechtigung, Nutzer vom Netzwerk zu kicken oder zu bannen, wenn sie darin eine Notwendigkeit sehen.
     - **Absatz 3.7:** Jedes Teammitglied des SKYYMEDIA.DE Netzwerkes ist befugt, jederzeit von seinen Rechten Gebrauch zu machen und User mit diesen zu kontrollieren.
+    - **Absatz 3.8:** Jedes Teammitglied des SKYYMEDIA.DE Netzwerkes behält sich das Recht vor keinen offiziellen Support auf dem Voice Chat zu leisten.
 - **Absatz 4:** VPNs, Proxys oder ähnliche Methoden zur Identitätsverschleierung sind verboten, es sei denn, es wurde vorher eine Absprache getroffen.
 - **Absatz 5:** Drohungen, egal ob sie an ein Teammitglied oder einen User gerichtet sind, werden schwer bestraft.
 - **Absatz 6:** Jegliche Art von Werbung zum eigenen Zweck ist verboten. Eine Absprache ist in diesem Fall möglich.
