@@ -29,7 +29,7 @@
 - **Absatz 1:** Missverständnisse und Streitigkeiten unter Spielern sind privat zu behandeln und sollen nicht auf unserem Netzwerk ausgetragen werden.
 - **Absatz 2:** Hatespeech ist auf diesem Server absolut verboten und wird mit einem permanenten Serverausschluss geahndet.
 - **Absatz 3:** Vorbehalte der Teammitglieder
-    - **Absatz 3.1:** Jedes Teammitglied von OPSUCHT.NET hat volles Weisungsrecht. Wer sich Anweisungen von Teammitgliedern widersetzt, muss mit einem temporären Ausschluss vom Netzwerk-Bereich rechnen.
+    - **Absatz 3.1:** Jedes Teammitglied von SKYYMEDIA.DE hat volles Weisungsrecht. Wer sich Anweisungen von Teammitgliedern widersetzt, muss mit einem temporären Ausschluss vom Netzwerk-Bereich rechnen.
     - **Absatz 3.2:** Jedes Teammitglied hat das Recht, im Verdachtsfall eines Regelbruches Sanktionen auszuüben.
     - **Absatz 3.3:** Teammitglieder müssen sich lediglich vor einem höherrangigen Teammitglied zu einer Handlung äußern.
     - **Absatz 3.4:** Teammitglieder sind nur gegenüber der Bereichsleitung in der Beweispflicht.
