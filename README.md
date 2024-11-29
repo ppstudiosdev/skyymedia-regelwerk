@@ -102,7 +102,7 @@
     - **Absatz 11.5:** Das Abwerben von Spielern für andere Server ist untersagt.
     - **Absatz 11.6:** Betteln nach Ingame-Rechten, Rängen oder Items ist nicht gestattet.
     - **Absatz 11.7:** Werbung für persönliche Shops und Angebote ist erlaubt, jedoch nur alle 15 Minuten, um Spam zu vermeiden.
-    - **Absatz 11.8:** Das Posten von Links im Chat ist untersagt, außer es handelt sich um offizielle Links von SKYYMEDIA.DE, wie z.B. wiki.opsucht.net.
+    - **Absatz 11.8:** Das Posten von Links im Chat ist untersagt, außer es handelt sich um offizielle Links von SKYYMEDIA.DE, wie z.B. wiki.skyymedia.net.
     - **Absatz 11.9:** Aufforderungen zum Spammen, wie z.B. 'Spammt alle F in den Chat!', sind verboten.
     - **Absatz 11.10:** Drogenverherrlichendes Verhalten im Chat ist untersagt.
     - **Absatz 11.11:** Fake-Nachrichten, wie z.B. „Du hast Spieler A 100$ gegeben“, sind untersagt.
